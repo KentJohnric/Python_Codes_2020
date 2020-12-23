@@ -1,3 +1,6 @@
+#This project is studied from youtube tutorial by: Dev Ed "Build A Python GUI App Tutorial"
+#This Project is about building a GUI App for Windows
+
 #importing Tkinker api
 import tkinter as tk
 #importing filedialog and text
